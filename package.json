@@ -9,6 +9,10 @@
   "author": "tab",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1399.0"
+    "archiver": "^5.3.1",
+    "aws-sdk": "^2.1399.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.5"
   }
 }
